@@ -1,0 +1,27 @@
+# Don't want to commit node_modules because it is really big and each dev generates 
+# it by running `npm ci` when setting up the app or changing dependencies
+node_modules/
+
+# Next.js build output
+.next/
+out/
+
+# Environment variables
+.env
+.env.local
+.env.development
+.env.production
+.env.test
+next-env.d.ts
+
+# Logs and OS files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+.DS_Store
+
+# Editor config
+.vscode/
+.idea/
+*.swp
