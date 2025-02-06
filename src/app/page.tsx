@@ -17,7 +17,7 @@ export default function Home() {
         <ListItem>Catherine Lawrence</ListItem>
         <ListItem>Dayanita Kumar</ListItem>
         <ListItem>Jennifer Nino</ListItem>
-        <ListItem>Lucinda Quintal</ListItem>
+        <ListItem>Lucinda Quintal 🌞</ListItem>
       </List>
     </div>
   );
