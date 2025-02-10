@@ -15,7 +15,7 @@ export default function Home() {
       <List style={{ fontSize: 20 }}>
         <ListItem>Caroline Kroll</ListItem>
         <ListItem>Catherine Lawrence</ListItem>
-        <ListItem>Dayanita Kumar</ListItem>
+        <ListItem>Dayanita Kumar🌻</ListItem>
         <ListItem>Jennifer Nino 🪻</ListItem>
         <ListItem>Lucinda Quintal 🌞</ListItem>
       </List>
