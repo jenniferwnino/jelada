@@ -14,7 +14,7 @@ export default function Home() {
       <Typography variant="h2">Welcome to Garlick!</Typography>
       <List style={{ fontSize: 20 }}>
         <ListItem>Caroline Kroll</ListItem>
-        <ListItem>Catherine Lawrence</ListItem>
+        <ListItem>Catherine Lawrence🔥</ListItem>
         <ListItem>Dayanita Kumar🌻</ListItem>
         <ListItem>Jennifer Nino 🪻</ListItem>
         <ListItem>Lucinda Quintal 🌞</ListItem>
